@@ -1,0 +1,37 @@
+# Manipulação de dados e planilhas
+pandas
+openpyxl
+matplotlib
+
+# Web scraping
+requests
+beautifulsoup4
+
+# Automação web com navegador
+selenium
+
+# Automação GUI
+pyautogui
+keyboard
+
+# Monitoramento de arquivos
+watchdog
+
+# Notificações
+plyer
+
+# PDFs e imagens
+PyPDF2
+pdfplumber
+Pillow
+
+# Agendamento de tarefas
+schedule
+
+# Envio de e-mails (padrão da biblioteca, não precisa instalar: smtplib, email)
+
+# APIs
+tweepy
+
+# Progresso e utilidades
+tqdm
